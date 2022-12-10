@@ -10,6 +10,12 @@
   clear: both;
 }
 
+.card-container {
+  background-color: hsl(30, 38%, 92%);
+  width: 1440px;
+  margin: 0 auto;
+}
+
 .row {
   border: 1px solid red;
 }
