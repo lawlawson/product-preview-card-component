@@ -1,34 +1,24 @@
-@font-face {
-  font-family: 'Montserrat';
-  src: url('https://fonts.google.com/specimen/Fraunces');
-}
 
 body {
   background-color: hsl(30, 38%, 92%);
 }
 
-.column {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .card-container {
-
-  border-radius: 20px;
-  height: 500px;
-  width: 1440px;
+  display: flex;
+  height: 600px;
+  width: 50%;
+  top: 175px;
+  left: 420px;
   margin: 0 auto;
 }
 
-.row {
-  border: 1px solid red;
+.perfume {
+  height: 600px;
+}
+
+.description-container {
+  background-color: white;
+  height: 600px;
 }
 
 .cart-button {
