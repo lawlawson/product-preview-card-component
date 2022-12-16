@@ -14,11 +14,17 @@
 
     <title>Product Preview Card Component</title>
     <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./reset.css" />
   </head>
   <body>
-    <div class="card-container">
-        <div class="image-container">
-          <img src="./images/image-product-desktop.jpg" class="perfume" alt="Perfume bottle" />
+    <div class="outside-container">
+      <div class="card-container">
+        <div>
+          <img
+            src="./images/image-product-desktop.jpg"
+            class="image-container"
+            alt="Perfume bottle"
+          />
         </div>
         <div class="description-container">
           <section>
@@ -39,11 +45,12 @@
           </section>
           <section>
             <button class="cart-button">
-              <img src="./images/icon-cart.svg"  alt="Shopping cart icon" />Add
+              <img src="./images/icon-cart.svg" alt="Shopping cart icon" />Add
               to Cart
             </button>
           </section>
         </div>
+      </div>
     </div>
   </body>
 </html>
