@@ -22,7 +22,7 @@ html, body {
   5. Improve text rendering
 */
 body {
-  line-height: 1.5;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
 /*
@@ -43,6 +43,10 @@ input, button, textarea, select {
 */
 p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
+}
+
+h1, h2 {
+  line-height: 1.1;
 }
 /*
   9. Create a root stacking context
