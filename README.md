@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/lawlawson/product-preview-card-component](https://github.com/lawlawson/product-preview-card-component)
+- Live Site URL: [https://sensational-eclair-c6c44c.netlify.app/](https://sensational-eclair-c6c44c.netlify.app/)
 
 ## My process
 
@@ -44,10 +44,9 @@ Users should be able to:
 ### What I learned
 
 I have been working on improving my semantic HTML knowledge and also to make my code more accessible. Also, writing CSS using BEM methodolgy as I have been reading on it's benefits recently, such as being a declarative syntax that can help designers and developers communicate more effectively. Overall, I wanted to work on improving my skills in creating components to near pixel perfect solutions.
+
 ## Author
 
 - Website - [Lawrence](https://lawlawson.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lawlawson)
-- Twitter - [@yourusername](https://www.twitter.com/lawsoncodes)
-
-
+- Frontend Mentor - [@lawlawson](https://www.frontendmentor.io/profile/lawlawson)
+- Twitter - [@lawsoncodes](https://www.twitter.com/lawsoncodes)
